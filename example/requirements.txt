@@ -1,0 +1,4 @@
+beir == 1.0.1
+pyserini == 0.23.0
+matplotlib
+seaborn
